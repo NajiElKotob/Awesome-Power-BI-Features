@@ -5,7 +5,6 @@
 * [Basic concepts for the Power BI service business user](https://learn.microsoft.com/en-us/power-bi/consumer/end-user-basic-concepts)
 
 ## Reporting
-* [Small multiples](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-small-multiples) - Small multiples, or trellising, splits a visual into multiple versions of itself. The versions are presented side by side, with data divided across these versions by a chosen dimension. [Dec 2020](https://powerbi.microsoft.com/en-us/blog/announcing-small-multiples-public-preview/)
 * Drill mode _(hierarchical drilling)_
   - [Drill mode in the Power BI service](https://learn.microsoft.com/en-us/power-bi/consumer/end-user-drill)
   - [Use inline hierarchy labels in Power BI](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-inline-hierarchy-labels)
@@ -13,6 +12,9 @@
   - [Enabling Drillthrough with Power BI On-Object Editing 📺](https://www.youtube.com/watch?v=eYxRHJ0hB_E) - Guy in a Cube
 * Tooltips
   - [Create tooltips based on report pages](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-tooltips?tabs=powerbi-desktop)
+  - [EVERYTHING you wanted to know about Power BI tooltips 📺](https://www.youtube.com/watch?v=z1Z1axRSMzM) - Guy in a Cube
+* [Small multiples](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-small-multiples) - Small multiples, or trellising, splits a visual into multiple versions of itself. The versions are presented side by side, with data divided across these versions by a chosen dimension. [Dec 2020](https://powerbi.microsoft.com/en-us/blog/announcing-small-multiples-public-preview/)
+
 
 ## Visuals
 ### AI
