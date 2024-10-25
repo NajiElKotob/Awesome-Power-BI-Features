@@ -25,7 +25,10 @@
   - [How to use smart narrative with Power BI 📺](https://www.youtube.com/watch?v=01UrT-z37sw) - Microsoft Power BI
   - [Smart Narratives and Conditional Formatting in Power BI? 📺](https://www.youtube.com/watch?v=ZaZyR3-1ru4) - Guy in a Cube
   - [Create smart narrative summaries](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-smart-narrative)
-
+* Q&A
+* Decomposition Tree
+  - [Create and view decomposition tree visuals in Power BI](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-decomposition-tree)
+    
 ### Core features
 * Show Data
   - [Display a visualization's underlying data (Show data as a table)](https://learn.microsoft.com/en-us/power-bi/visuals/service-reports-show-data)
