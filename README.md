@@ -13,13 +13,14 @@
 * Tooltips
   - [Create tooltips based on report pages](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-tooltips?tabs=powerbi-desktop)
   - [EVERYTHING you wanted to know about Power BI tooltips 📺](https://www.youtube.com/watch?v=z1Z1axRSMzM) - Guy in a Cube
+  - [Customize tooltips in Power BI](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-custom-tooltips)
 * [Small multiples](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-small-multiples) - Small multiples, or trellising, splits a visual into multiple versions of itself. The versions are presented side by side, with data divided across these versions by a chosen dimension. [Dec 2020](https://powerbi.microsoft.com/en-us/blog/announcing-small-multiples-public-preview/)
 
 
 ## Visuals
 ### AI
 * Key Influencers
-  - [Create key influencers visualizations](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-influencers?tabs=powerbi-desktop)
+  - [Create key influencers visualizations](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-influencers)
 * Narrative
   - [How to use smart narrative with Power BI 📺](https://www.youtube.com/watch?v=01UrT-z37sw) - Microsoft Power BI
   - [Smart Narratives and Conditional Formatting in Power BI? 📺](https://www.youtube.com/watch?v=ZaZyR3-1ru4) - Guy in a Cube
