@@ -26,6 +26,7 @@
   - [Smart Narratives and Conditional Formatting in Power BI? 📺](https://www.youtube.com/watch?v=ZaZyR3-1ru4) - Guy in a Cube
   - [Create smart narrative summaries](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-smart-narrative)
 * Q&A
+  - [Use Power BI Q&A in a report to explore your data and create visuals](https://learn.microsoft.com/en-us/power-bi/natural-language/power-bi-tutorial-q-and-a)
 * Decomposition Tree
   - [Create and view decomposition tree visuals in Power BI](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-decomposition-tree)
     
