@@ -26,6 +26,8 @@
   - [Smart Narratives and Conditional Formatting in Power BI? 📺](https://www.youtube.com/watch?v=ZaZyR3-1ru4) - Guy in a Cube
   - [Create smart narrative summaries](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-smart-narrative)
 
+### Core features
+* [Display a visualization's underlying data (Show data as a table)](https://learn.microsoft.com/en-us/power-bi/visuals/service-reports-show-data)
 
 ## Service
 * [Storytelling in PowerPoint](https://learn.microsoft.com/en-us/power-bi/collaborate-share/service-power-bi-powerpoint-add-in-about) - Power BI’s integration with PowerPoint that enables users to easily include interactive Power BI visuals in their PowerPoint presentations. [March 2023](https://powerbi.microsoft.com/en-us/blog/power-bi-march-2023-feature-summary/#post-22359-_Toc128998044)
