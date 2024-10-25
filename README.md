@@ -11,8 +11,11 @@
 
 ## Visuals
 ### AI
-* [Create key influencers visualizations](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-influencers?tabs=powerbi-desktop)
-* [Smart Narratives and Conditional Formatting in Power BI? 📺](https://www.youtube.com/watch?v=ZaZyR3-1ru4) - Guy in a Cube
+* Key Influencers
+  - [Create key influencers visualizations](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-influencers?tabs=powerbi-desktop)
+* Narrative
+  - [How to use smart narrative with Power BI 📺](https://www.youtube.com/watch?v=01UrT-z37sw) - Microsoft Power BI
+  - [Smart Narratives and Conditional Formatting in Power BI? 📺](https://www.youtube.com/watch?v=ZaZyR3-1ru4) - Guy in a Cube
 
 
 ## Service
