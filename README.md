@@ -28,6 +28,7 @@
 
 ### Core features
 * [Display a visualization's underlying data (Show data as a table)](https://learn.microsoft.com/en-us/power-bi/visuals/service-reports-show-data)
+* [Show the data used to create a Power BI visual](https://learn.microsoft.com/en-us/power-bi/create-reports/end-user-show-data)
 
 ## Service
 * [Storytelling in PowerPoint](https://learn.microsoft.com/en-us/power-bi/collaborate-share/service-power-bi-powerpoint-add-in-about) - Power BI’s integration with PowerPoint that enables users to easily include interactive Power BI visuals in their PowerPoint presentations. [March 2023](https://powerbi.microsoft.com/en-us/blog/power-bi-march-2023-feature-summary/#post-22359-_Toc128998044)
