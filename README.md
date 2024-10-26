@@ -39,6 +39,7 @@
   - [Show the data used to create a Power BI visual](https://learn.microsoft.com/en-us/power-bi/create-reports/end-user-show-data)
 * Export Data
   - [Export the data that was used to create a visualization](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-export-data)
+    - The maximum number of rows that Power BI Desktop and Power BI service can export to a .csv file is 30,000 - [Considerations and limitations](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-export-data?tabs=powerbi-desktop#considerations-and-limitations)
 * Visual headers
 * Conditional formatting
 * Overlaid analytics
