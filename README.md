@@ -45,6 +45,7 @@
     - The maximum number of rows that Power BI Desktop and Power BI service can export to a .csv file is 30,000 - [Considerations and limitations](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-export-data?tabs=powerbi-desktop#considerations-and-limitations)
 * Visual headers
 * Conditional formatting
+  - [Apply conditional formatting in tables and matrixes](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-conditional-table-formatting)
 * Overlaid (Added) analytics
   - [Use the Analytics pane in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-analytics-pane)
 
