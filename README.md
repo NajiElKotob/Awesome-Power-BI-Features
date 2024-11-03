@@ -19,7 +19,8 @@
 * [Small multiples](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-small-multiples) - Small multiples, or trellising, splits a visual into multiple versions of itself. The versions are presented side by side, with data divided across these versions by a chosen dimension.
 * What-if analysis
   - [Create and use parameters to visualize variables in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-what-if)
-
+* Fitlers
+  - [Take a tour of the report Filters pane](https://learn.microsoft.com/en-us/power-bi/consumer/end-user-report-filter)
 -----
 
 ## Visuals
