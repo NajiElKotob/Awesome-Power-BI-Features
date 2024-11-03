@@ -35,6 +35,8 @@
   - [Use Power BI Q&A in a report to explore your data and create visuals](https://learn.microsoft.com/en-us/power-bi/natural-language/power-bi-tutorial-q-and-a)
 * Decomposition Tree
   - [Create and view decomposition tree visuals in Power BI](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-decomposition-tree)
+* Analyze and Explain
+  - [Apply insights in Power BI to explain fluctuations in visuals](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-insights)
     
 ### Core features
 * Show Data
