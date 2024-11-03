@@ -49,6 +49,8 @@
 * Overlaid (Added) analytics
   - [Use the Analytics pane in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-analytics-pane)
 
+## Data Wrangling
+* [Use AI Insights in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-ai-insights)
 
 -----
 
@@ -59,6 +61,8 @@
 
 ### Date Table
 * [Set and use date tables in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-date-tables)
+
+
 
 -----
 
