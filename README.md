@@ -12,6 +12,7 @@
   - [Use inline hierarchy labels in Power BI](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-inline-hierarchy-labels)
 * Drillthrough
   - [Enabling Drillthrough with Power BI On-Object Editing 📺](https://www.youtube.com/watch?v=eYxRHJ0hB_E) - Guy in a Cube
+  - [Create a drillthrough button in Power BI](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-drill-through-buttons)
 * Tooltips
   - [Create tooltips based on report pages](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-tooltips?tabs=powerbi-desktop)
   - [EVERYTHING you wanted to know about Power BI tooltips 📺](https://www.youtube.com/watch?v=z1Z1axRSMzM) - Guy in a Cube
