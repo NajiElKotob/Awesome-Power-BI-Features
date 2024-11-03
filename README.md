@@ -65,7 +65,8 @@
 ### Date Table
 * [Set and use date tables in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-date-tables)
 
-
+### Data
+* [Specify data categories in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-data-categorization)
 
 -----
 
