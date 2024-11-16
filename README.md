@@ -16,6 +16,7 @@
 * Tooltips
   - [Create tooltips based on report pages](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-tooltips?tabs=powerbi-desktop)
   - [EVERYTHING you wanted to know about Power BI tooltips 📺](https://www.youtube.com/watch?v=z1Z1axRSMzM) - Guy in a Cube
+  - [Extend visuals with report page tooltips](https://learn.microsoft.com/en-us/power-bi/guidance/report-page-tooltips)
   - [Customize tooltips in Power BI](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-custom-tooltips)
 * [Small multiples](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-small-multiples) - Small multiples, or trellising, splits a visual into multiple versions of itself. The versions are presented side by side, with data divided across these versions by a chosen dimension.
 * Bookmarks
