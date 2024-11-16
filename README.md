@@ -85,7 +85,7 @@
   - [Find Insights in your reports](https://learn.microsoft.com/en-us/power-bi/create-reports/insights)
   - [View data insights on dashboard tiles with Power BI](https://learn.microsoft.com/en-us/power-bi/consumer/end-user-insights)
 * PowerPoint
-  - [Storytelling in PowerPoint](https://learn.microsoft.com/en-us/power-bi/collaborate-share/service-power-bi-powerpoint-add-in-about) - Power BI’s integration with PowerPoint that enables users to easily include interactive Power BI visuals in their PowerPoint presentations. [March 2023](https://powerbi.microsoft.com/en-us/blog/power-bi-march-2023-feature-summary/#post-22359-_Toc128998044)
+  - [Storytelling in PowerPoint](https://learn.microsoft.com/en-us/power-bi/collaborate-share/service-power-bi-powerpoint-add-in-about) - Power BI’s integration with PowerPoint that enables users to easily include interactive Power BI visuals in their PowerPoint presentations. [Learn more](https://powerbi.microsoft.com/en-us/blog/power-bi-march-2023-feature-summary/#post-22359-_Toc128998044)
 
 -----
 
