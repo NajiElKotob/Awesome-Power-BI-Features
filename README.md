@@ -52,6 +52,7 @@
   - [Export the data that was used to create a visualization](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-export-data)
     - The maximum number of rows that Power BI Desktop and Power BI service can export to a .csv file is 30,000 - [Considerations and limitations](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-export-data?tabs=powerbi-desktop#considerations-and-limitations)
 * Visual headers
+  - [Using improved visual headers in Power BI reports](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-visual-elements-for-reports#using-improved-visual-headers-in-power-bi-reports)
 * Conditional formatting
   - [Apply conditional formatting in tables and matrixes](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-conditional-table-formatting)
 * Overlaid (Added) analytics
