@@ -79,6 +79,7 @@
 
 ## Service
 * Dashboard
+  - [Introduction to dashboards for Power BI designers](https://learn.microsoft.com/en-us/power-bi/create-reports/service-dashboards)
 * Insights
   - [Generate data insights on your semantic model automatically with Power BI](https://learn.microsoft.com/en-us/power-bi/create-reports/service-insights)
   - [Find Insights in your reports](https://learn.microsoft.com/en-us/power-bi/create-reports/insights)
