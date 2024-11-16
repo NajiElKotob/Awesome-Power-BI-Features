@@ -90,4 +90,5 @@
 -----
 
 ## Publishing
+* [Publish an app in Power BI](https://learn.microsoft.com/en-us/power-bi/collaborate-share/service-create-distribute-apps)
 * [Publish to web from Power BI](https://learn.microsoft.com/en-us/power-bi/collaborate-share/service-publish-to-web)
