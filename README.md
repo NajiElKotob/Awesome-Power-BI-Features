@@ -25,6 +25,8 @@
   - [Create and use parameters to visualize variables in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-what-if)
 * Fitlers
   - [Take a tour of the report Filters pane](https://learn.microsoft.com/en-us/power-bi/consumer/end-user-report-filter)
+* Visual interactions
+  - [Change how visuals interact in a Power BI report](https://learn.microsoft.com/en-us/power-bi/create-reports/service-reports-visual-interactions?tabs=powerbi-desktop)
 * Buttons
   - [Create buttons in Power BI reports](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-buttons?tabs=powerbi-desktop)
 -----
