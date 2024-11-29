@@ -23,6 +23,7 @@
   - [Create report bookmarks in Power BI to share insights and build stories](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-bookmarks?tabs=powerbi-desktop)
 * What-if analysis
   - [Create and use parameters to visualize variables in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-what-if)
+  - [Getting Started With 'What If' Parameters 📺 ~8min](https://www.youtube.com/watch?v=vd-r2w0mkK4) - Enterprise DNA
 * Fitlers
   - [Take a tour of the report Filters pane](https://learn.microsoft.com/en-us/power-bi/consumer/end-user-report-filter)
 * Visual interactions
