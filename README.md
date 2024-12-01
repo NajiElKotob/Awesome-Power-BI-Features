@@ -35,6 +35,9 @@
 -----
 
 ## Visuals
+### Core
+* [Slicers in Power BI](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-slicers?tabs=powerbi-desktop)
+  - [Sync and use slicers on other pages](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-slicers?tabs=powerbi-desktop#sync-and-use-slicers-on-other-pages)
 ### AI
 * Key Influencers
   - [Create key influencers visualizations](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-influencers)
