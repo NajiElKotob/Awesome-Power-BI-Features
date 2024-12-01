@@ -52,7 +52,9 @@
   - [Create and view decomposition tree visuals in Power BI](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-decomposition-tree)
 * Analyze and Explain
   - [Apply insights in Power BI to explain fluctuations in visuals](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-insights)
-    
+
+-----
+
 ### Core features
 * Show Data
   - [Display a visualization's underlying data (Show data as a table)](https://learn.microsoft.com/en-us/power-bi/visuals/service-reports-show-data)
