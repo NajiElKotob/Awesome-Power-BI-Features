@@ -97,9 +97,10 @@
 * PowerPoint
   - [Storytelling in PowerPoint](https://learn.microsoft.com/en-us/power-bi/collaborate-share/service-power-bi-powerpoint-add-in-about) - Power BI’s integration with PowerPoint that enables users to easily include interactive Power BI visuals in their PowerPoint presentations. [Learn more](https://powerbi.microsoft.com/en-us/blog/power-bi-march-2023-feature-summary/#post-22359-_Toc128998044)
 
------
+### Security
+* [Roles in workspaces in Power BI](https://learn.microsoft.com/en-us/power-bi/collaborate-share/service-roles-new-workspaces)
 
-## Publishing
+### Publishing
 * [Ways to collaborate and share in Power BI](https://learn.microsoft.com/en-us/power-bi/collaborate-share/service-how-to-collaborate-distribute-dashboards-reports)
 * [Publish semantic models and reports from Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-upload-desktop-files)
 * [Publish an app in Power BI](https://learn.microsoft.com/en-us/power-bi/collaborate-share/service-create-distribute-apps)
