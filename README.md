@@ -10,6 +10,7 @@
 * Drill mode _(hierarchical drilling)_
   - [Drill mode in the Power BI service](https://learn.microsoft.com/en-us/power-bi/consumer/end-user-drill)
   - [Use inline hierarchy labels in Power BI](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-inline-hierarchy-labels)
+  - [Controlling Power BI drill down with a few tricks 📺](https://www.youtube.com/watch?v=a8r7c9NnLFY)
 * Drillthrough
   - [Enabling Drillthrough with Power BI On-Object Editing 📺](https://www.youtube.com/watch?v=eYxRHJ0hB_E) - Guy in a Cube
   - [Set up drillthrough in Power BI reports](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-drillthrough)
