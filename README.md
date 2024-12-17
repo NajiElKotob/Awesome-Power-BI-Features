@@ -72,6 +72,8 @@
   - [Use the Analytics pane in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-analytics-pane)
 
 ## Data Wrangling
+### Power Query
+* [Blown AWAY by Column From Examples in Power Query 📺 ~4min](https://www.youtube.com/watch?v=BSmmNgO_EOU) - Guy in a Cube
 * [Use AI Insights in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-ai-insights)
 
 -----
