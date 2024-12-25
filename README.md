@@ -58,7 +58,8 @@
 ## Power Platform 
 * Power Automate
   - [Create a Power Automate visual for Power BI](https://learn.microsoft.com/en-us/power-bi/create-reports/power-bi-automate-visual?tabs=powerbi-desktop)
-    
+* Power Apps
+  - [Power Apps visual for Power BI](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/powerapps-custom-visual)    
 -----
 
 ### Core features
