@@ -55,6 +55,10 @@
 * Analyze and Explain
   - [Apply insights in Power BI to explain fluctuations in visuals](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-insights)
 
+## Power Platform 
+* Power Automate
+  - [Create a Power Automate visual for Power BI](https://learn.microsoft.com/en-us/power-bi/create-reports/power-bi-automate-visual?tabs=powerbi-desktop)
+    
 -----
 
 ### Core features
