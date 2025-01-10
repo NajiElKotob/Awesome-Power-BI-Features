@@ -54,7 +54,9 @@
   - [Create and view decomposition tree visuals in Power BI](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-decomposition-tree)
 * Analyze and Explain
   - [Apply insights in Power BI to explain fluctuations in visuals](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-insights)
-
+* AI Viz 📺
+  - [Q&A Visual Explained - AI Visuals in Power BI](https://www.youtube.com/watch?v=2YT5X3-nfMA)
+    
 ## Power Platform 
 * Power Automate
   - [Create a Power Automate visual for Power BI](https://learn.microsoft.com/en-us/power-bi/create-reports/power-bi-automate-visual?tabs=powerbi-desktop)
