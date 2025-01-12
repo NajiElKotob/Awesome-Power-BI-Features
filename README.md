@@ -50,6 +50,7 @@
   - [Create smart narrative summaries](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-smart-narrative)
 * Q&A
   - [Use Power BI Q&A in a report to explore your data and create visuals](https://learn.microsoft.com/en-us/power-bi/natural-language/power-bi-tutorial-q-and-a)
+  - [Q&A Visual Explained - AI Visuals in Power BI 📺 ~15min](https://www.youtube.com/watch?v=2YT5X3-nfMA) - Pragmatic Works
 * Decomposition Tree
   - [Create and view decomposition tree visuals in Power BI](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-decomposition-tree)
 * Analyze and Explain
