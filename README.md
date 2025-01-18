@@ -96,6 +96,7 @@
 
 ### Data
 * [Specify data categories in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-data-categorization)
+* [Data types in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-data-types)
 
 -----
 
