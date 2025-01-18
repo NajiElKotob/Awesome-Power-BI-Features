@@ -1,4 +1,6 @@
 # Awesome Power BI Features
+`Awesome Power BI Features is a collection of top references that every Power BI expert should explore and master.`
+<br />
 {Awesome Works in Progress}
 
 ## Basic concepts
