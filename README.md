@@ -92,6 +92,7 @@
 * [Quick measures](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-quick-measures) - You can use quick measures to quickly and easily perform common, powerful calculations. A quick measure runs a set of Data Analysis Expressions (DAX) commands behind the scenes, then presents the results for you to use in your report. 
 
 ### TMDL
+* [TMDL in Power BI Desktop developer mode](https://powerbi.microsoft.com/en-us/blog/tmdl-in-power-bi-desktop-developer-mode-preview/)
 * [Deep dive into TMDL view for Power BI Desktop](https://powerbi.microsoft.com/en-us/blog/deep-dive-into-tmdl-view-for-power-bi-desktop-preview/)
 
 ### Date Table
