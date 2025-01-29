@@ -94,7 +94,8 @@
 ## Modeling
 ### DAX
 * [Visual calculations](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-visual-calculations-overview) - A visual calculation is a DAX calculation defined and executed directly on a visual. Visual calculations make it easier to create calculations that were previously hard to create, leading to simpler DAX, easier maintenance, and better performance.
-* [Quick measures](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-quick-measures) - You can use quick measures to quickly and easily perform common, powerful calculations. A quick measure runs a set of Data Analysis Expressions (DAX) commands behind the scenes, then presents the results for you to use in your report. 
+* [Quick measures](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-quick-measures) - You can use quick measures to quickly and easily perform common, powerful calculations. A quick measure runs a set of Data Analysis Expressions (DAX) commands behind the scenes, then presents the results for you to use in your report.
+* [Calculation groups](https://learn.microsoft.com/en-us/power-bi/transform-model/calculation-groups)  can significantly reduce the number of redundant measures you have to create, by allowing you define DAX expressions as calculation items that apply to the existing measures in your model. 
 
 ### TMDL
 * [TMDL in Power BI Desktop developer mode](https://powerbi.microsoft.com/en-us/blog/tmdl-in-power-bi-desktop-developer-mode-preview/)
