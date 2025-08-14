@@ -83,6 +83,8 @@
   - [Apply conditional formatting in tables and matrixes](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-conditional-table-formatting)
 * Overlaid (Added) analytics
   - [Use the Analytics pane in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-analytics-pane)
+* Accessibility
+  - [Design Power BI reports for accessibility](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-accessibility-creating-reports)
 
 ## Data Wrangling
 ### Power Query
