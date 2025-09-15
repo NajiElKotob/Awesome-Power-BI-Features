@@ -32,6 +32,7 @@
   - [Getting Started With 'What If' Parameters 📺 ~8min](https://www.youtube.com/watch?v=vd-r2w0mkK4) - Enterprise DNA
 * Fitlers
   - [Take a tour of the report Filters pane](https://learn.microsoft.com/en-us/power-bi/consumer/end-user-report-filter)
+  - [Power BI slicers vs the filter pane 📺 ~9min](https://www.youtube.com/watch?v=NA2wlqfjX34) - Guy in a Cube
 * Visual interactions
   - [Change how visuals interact in a Power BI report](https://learn.microsoft.com/en-us/power-bi/create-reports/service-reports-visual-interactions?tabs=powerbi-desktop)
 * Buttons
