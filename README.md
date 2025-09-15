@@ -35,6 +35,7 @@
   - [Power BI slicers vs the filter pane 📺 ~9min](https://www.youtube.com/watch?v=NA2wlqfjX34) - Guy in a Cube
 * Visual interactions
   - [Change how visuals interact in a Power BI report](https://learn.microsoft.com/en-us/power-bi/create-reports/service-reports-visual-interactions?tabs=powerbi-desktop)
+  - [Cross-filter and cross-highlight visuals](https://learn.microsoft.com/en-us/power-bi/create-reports/power-bi-reports-filters-and-highlighting#cross-filter-and-cross-highlight-visuals)
 * Buttons
   - [Create buttons in Power BI reports](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-buttons?tabs=powerbi-desktop)
 -----
