@@ -131,6 +131,7 @@
   - [Ask Anything with Standalone Copilot in Power BI 📺 4min](https://www.youtube.com/watch?v=YsYFR1VpciM)
 * PowerPoint
   - [Storytelling in PowerPoint](https://learn.microsoft.com/en-us/power-bi/collaborate-share/service-power-bi-powerpoint-add-in-about) - Power BI’s integration with PowerPoint that enables users to easily include interactive Power BI visuals in their PowerPoint presentations. [Learn more](https://powerbi.microsoft.com/en-us/blog/power-bi-march-2023-feature-summary/#post-22359-_Toc128998044)
+  - [Manage multiple add-ins with the Power BI Controller](https://learn.microsoft.com/en-us/power-bi/collaborate-share/storytelling-powerbi-controller)
 
 ### Security
 * [Roles in workspaces in Power BI](https://learn.microsoft.com/en-us/power-bi/collaborate-share/service-roles-new-workspaces)
