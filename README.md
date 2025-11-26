@@ -62,6 +62,9 @@
 * AI Viz 📺
   - [Q&A Visual Explained - AI Visuals in Power BI](https://www.youtube.com/watch?v=2YT5X3-nfMA)
 
+### MCP
+* [Power BI Modeling MCP Server](https://github.com/microsoft/powerbi-modeling-mcp)
+
 ### AppSource
 * [Import a Power BI visual from AppSource into your workspace](https://learn.microsoft.com/en-us/power-bi/developer/visuals/import-visual)
   
