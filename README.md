@@ -108,6 +108,9 @@
 * [Quick measures](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-quick-measures) - You can use quick measures to quickly and easily perform common, powerful calculations. A quick measure runs a set of Data Analysis Expressions (DAX) commands behind the scenes, then presents the results for you to use in your report.
 #### Calculation Groups
 * [Calculation groups](https://learn.microsoft.com/en-us/power-bi/transform-model/calculation-groups)  can significantly reduce the number of redundant measures you have to create, by allowing you define DAX expressions as calculation items that apply to the existing measures in your model. 
+#### Calendar Options
+* [Power BI Custom Calendar: From Zero to Hero in Under 10 Minutes! 📺 ~13min](https://www.youtube.com/watch?v=ILZy6pFHY5s) - Pragmatic Works
+
 
 ### TMDL
 * [TMDL in Power BI Desktop developer mode](https://powerbi.microsoft.com/en-us/blog/tmdl-in-power-bi-desktop-developer-mode-preview/)
