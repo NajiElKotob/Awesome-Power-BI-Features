@@ -62,9 +62,10 @@
 * AI Viz 📺
   - [Q&A Visual Explained - AI Visuals in Power BI](https://www.youtube.com/watch?v=2YT5X3-nfMA)
 
-### MCP
+### MCP and AI
 * [Power BI Modeling MCP Server](https://github.com/microsoft/powerbi-modeling-mcp)
 * [Get Started with Power BI Modeling MCP Server: Step-by-Step Installation Guide (VS Code + Claude) 📺 ~5min](https://www.youtube.com/watch?v=umZReVr10Xw) - Guy in a Cube
+* [Copilot & Artificial Intelligence](https://www.youtube.com/playlist?list=PLv2BtOtLblH2e2RJNsDWIuCt_VeLABlMP) - Guy in a Cube
 
 ### AppSource
 * [Import a Power BI visual from AppSource into your workspace](https://learn.microsoft.com/en-us/power-bi/developer/visuals/import-visual)
