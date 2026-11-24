@@ -25,7 +25,7 @@
   - [Customize tooltips in Power BI](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-custom-tooltips)
 * [Small multiples](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-small-multiples) - Small multiples, or trellising, splits a visual into multiple versions of itself. The versions are presented side by side, with data divided across these versions by a chosen dimension.
 * Hierarchies
-  - [Power BI Hierarchies: A Comprehensive Guide](https://www.datacamp.com/tutorial/power-bi-hierarchies) -datacamp.com
+  - [Power BI Hierarchies: A Comprehensive Guide](https://www.datacamp.com/tutorial/power-bi-hierarchies) - datacamp.com
 * Field Parameters
   - [Use field parameters to let report readers change visuals](https://learn.microsoft.com/en-us/power-bi/create-reports/power-bi-field-parameters)
 * Bookmarks
@@ -130,7 +130,13 @@
 * [Specify data categories in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-data-categorization)
 * [Data types in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-data-types)
 
+
+## Performance Optimization
+*[How to Easily Compare Server Timings Using DAX Studio for Power BI 📺~4min](https://www.youtube.com/watch?v=7riWWVMMegE) - Guy in a Cube
+
 -----
+
+
 ## LLM
 * [Microsoft Power BI (OpenAI)](https://openai.com/business/plugins/microsoft-power-bi/) - openai.com | Explore and author analytics in your browser
 
