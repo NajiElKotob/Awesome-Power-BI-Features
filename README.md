@@ -26,6 +26,8 @@
 * [Small multiples](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-small-multiples) - Small multiples, or trellising, splits a visual into multiple versions of itself. The versions are presented side by side, with data divided across these versions by a chosen dimension.
 * Hierarchies
   - [Power BI Hierarchies: A Comprehensive Guide](https://www.datacamp.com/tutorial/power-bi-hierarchies) -datacamp.com
+* Field Parameters
+  - [Use field parameters to let report readers change visuals](https://learn.microsoft.com/en-us/power-bi/create-reports/power-bi-field-parameters)
 * Bookmarks
   - [Mastering Power BI Bookmarks 📺 ~12 min](https://www.youtube.com/watch?v=xCMqWEvSkAs) - Guy in a Cube
   - [Create report bookmarks in Power BI to share insights and build stories](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-bookmarks?tabs=powerbi-desktop)
