@@ -132,7 +132,8 @@
 
 
 ## Performance Optimization
-*[How to Easily Compare Server Timings Using DAX Studio for Power BI 📺~4min](https://www.youtube.com/watch?v=7riWWVMMegE) - Guy in a Cube
+* [How to Easily Compare Server Timings Using DAX Studio for Power BI 📺~4min](https://www.youtube.com/watch?v=7riWWVMMegE) - Guy in a Cube
+* [VertiPaq Analyzer](https://www.sqlbi.com/tools/vertipaq-analyzer/) - sqlbi.com
 
 -----
 
